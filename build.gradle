@@ -5,7 +5,7 @@ plugins {
 }
 
 group = 'com.subin'
-version = '0.1.1SNAPSHOT'
+version = '0.0.1-SNAPSHOT'
 
 java {
     toolchain {
